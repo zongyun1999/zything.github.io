@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Java学习路线</title>
+      <link href="/2020/05/25/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+      <url>/2020/05/25/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Java学习路线"><a href="#Java学习路线" class="headerlink" title="Java学习路线"></a>Java学习路线</h1><p>[TOC]</p><h2 id="JAVA基础"><a href="#JAVA基础" class="headerlink" title="JAVA基础"></a>JAVA基础</h2><ul><li>《Java核心技术卷》</li><li>《Effective Java》</li><li>《Java编程思想》</li></ul><h2 id="MySQL"><a href="#MySQL" class="headerlink" title="MySQL"></a>MySQL</h2><ul><li>《高性能MySQL》</li><li>《MySQL技术内幕：InnoDB存储引擎》</li></ul><h2 id="前端基础（html-、css、js、前端框架）"><a href="#前端基础（html-、css、js、前端框架）" class="headerlink" title="前端基础（html 、css、js、前端框架）"></a>前端基础（html 、css、js、前端框架）</h2><h2 id="常见框架（SSM、Spring-Boot）"><a href="#常见框架（SSM、Spring-Boot）" class="headerlink" title="常见框架（SSM、Spring Boot）"></a>常见框架（SSM、Spring Boot）</h2><h2 id="项目实战"><a href="#项目实战" class="headerlink" title="项目实战"></a>项目实战</h2><h2 id="JAVA并发编程"><a href="#JAVA并发编程" class="headerlink" title="JAVA并发编程"></a>JAVA并发编程</h2><ul><li>《Java并发编程》</li><li>《Java并发编程艺术》</li><li>《Java并发编程之美》</li></ul><h2 id="JVM"><a href="#JVM" class="headerlink" title="JVM"></a>JVM</h2><ul><li>《深入理解Java虚拟机》</li></ul><h2 id="JDK源码"><a href="#JDK源码" class="headerlink" title="JDK源码"></a>JDK源码</h2><h2 id="开发工具"><a href="#开发工具" class="headerlink" title="开发工具"></a>开发工具</h2><h2 id="MySQL进阶（原理、调优）"><a href="#MySQL进阶（原理、调优）" class="headerlink" title="MySQL进阶（原理、调优）"></a>MySQL进阶（原理、调优）</h2><h2 id="Redis"><a href="#Redis" class="headerlink" title="Redis"></a>Redis</h2><ul><li>《Redis深度历险：核心原理与技术》</li><li>《Redis设计与实现》</li></ul><h2 id="微服务"><a href="#微服务" class="headerlink" title="微服务"></a>微服务</h2><h2 id="中间件"><a href="#中间件" class="headerlink" title="中间件"></a>中间件</h2><h2 id="框架源码"><a href="#框架源码" class="headerlink" title="框架源码"></a>框架源码</h2><h2 id="计算机基础"><a href="#计算机基础" class="headerlink" title="计算机基础"></a>计算机基础</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 书籍 </tag>
+            
+            <tag> JAVA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Java反射基础(reflect)-1</title>
       <link href="/2020/05/25/Java%E5%8F%8D%E5%B0%84%E5%9F%BA%E7%A1%80-reflect-1/"/>
       <url>/2020/05/25/Java%E5%8F%8D%E5%B0%84%E5%9F%BA%E7%A1%80-reflect-1/</url>
